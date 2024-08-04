@@ -59,6 +59,12 @@ h1,h2,h3,h4,h5,h6{
     font-size: 1.4rem !important;
   }
 }
+@media screen and (min-width: 601px) and (max-width: 768px) {
+  .navbar-toggler {
+    background-color:#fff!important;
+    font-size: 1.4rem !important;
+  }
+}
 .under{
   position: relative;
   padding-bottom: 10px;

@@ -40,6 +40,7 @@
 .title{
   font-size: 25px;
   font-weight: 700;
+  padding-top: 10rem!important;
   color: #fff;
   margin-bottom: 50px;
 }
@@ -52,12 +53,26 @@
   .cad{
     margin:30px auto;
     offset: 10px;
-    width: 24.5rem;
   }
   .skills{
     
-    margin-top: 8rem !important;
+    padding-top: 10rem!important;
   }
+}
+@media screen and (min-width: 601px) and (max-width: 768px) {
+  .title {
+    padding-top: 10rem!important;
+    font-size: 1.4rem !important;
+  }
+  .cad{
+    margin:30px auto;
+    offset: 10px;
+  }
+  .skills{
+    
+    padding-top: 10rem!important;
+  }
+
 }
   .skills{
     display: flex;
