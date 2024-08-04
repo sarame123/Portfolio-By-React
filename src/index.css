@@ -53,9 +53,9 @@ h1,h2,h3,h4,h5,h6{
   color: #cc0033;
   font-size:15px;
 }
-@media (min-width:400px) {
+@media screen and (min-width: 0px) and (max-width: 600px) {
   .navbar-toggler {
-    background-color:#d10ad1!important;
+    background-color:#fff!important;
     font-size: 1.4rem !important;
   }
 }
