@@ -1,0 +1,63 @@
+.banner{
+    margin-top: 0;
+    padding: 200px 0 20px 0;
+    background-image: url(../../Images/banner-bg.png);
+    background-size:cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+.tagline{
+    font-weight: 700;
+    letter-spacing: 0.8px;
+    padding: 11px 10px;
+    border-radius: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    margin-bottom: 16px;
+    display: inline-block;
+    background: linear-gradient(90.21deg, rgba(170, 54, 124, 0.5) -5.91%, rgba(74, 47, 189, 0.5) 111.58%);
+}
+ 
+  
+.banner h1{
+    font-size:55px;
+    letter-spacing: 0.5px;
+    line-height: 1;
+    margin-bottom: 20px;
+    display: block;
+}
+.warb{
+    color: #7c55c9;
+    font-size: 50px;
+}
+.banner p{
+    color: #B8B8B8;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    
+    width: 96%;
+}
+.banner button a{
+    color: antiquewhite;
+}
+.banner button i{
+    color:#9b77dd;
+    font-size: 19px;
+    padding-top: 100px;
+}
+.banner img{
+    
+    animation: updown 3s linear infinite;;
+}
+@keyframes updown{
+    0% {
+        transform: translateY(-20px);
+    }
+    50% {
+        transform: translateY(20px);
+    }
+    100% {
+        transform: translateY(-20px);
+    }
+}

@@ -1,0 +1,79 @@
+@font-face {
+  font-family:Centra;
+  src: url(./fonts/CentraNo2-Bold.ttf);
+  font-weight: 700;
+}
+@font-face {
+  font-family:Centra;
+  src: url(./fonts/CentraNo2-Book.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family:Centra;
+  src: url(./fonts/CentraNo2-Medium.ttf);
+  font-weight: 500;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html{
+  scroll-behavior: smooth;
+  scroll-padding-top: 75px;
+}
+body{
+  font-weight: 400;
+  overflow-x: hidden;
+  position: relative;
+  background-color: #121212 !important;
+  color: #fff !important;
+  font-family: 'Centra',sans-serif !important;
+
+}
+.nav-link{
+  font-weight: 400;
+  color: #fff !important;
+  opacity: 0.75;
+}
+
+ .navbar-nav .nav-link:hover,
+ .navbar-nav .nav-link.active {
+  opacity: 1;
+}
+
+h1,h2,h3,h4,h5,h6{
+  padding: 0;
+  margin: 0;
+  line-height: normal;
+}
+
+
+.error-container{
+  color: #cc0033;
+  font-size:15px;
+}
+@media (min-width:400px) {
+  .navbar-toggler {
+    background-color:#d10ad1!important;
+    font-size: 1.4rem !important;
+  }
+}
+.under{
+  position: relative;
+  padding-bottom: 10px;
+}
+.under::before{
+  content: "";
+  background:linear-gradient(90deg,#853395 0%,#cc0033 100%);
+  width: 8%;
+  height: .9rem;
+  position: absolute;
+  bottom: 0;
+ 
+
+
+}
+.g-2, .gy-2 {
+  --bs-gutter-y: 0.1rem !important;
+}

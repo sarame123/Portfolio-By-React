@@ -1,0 +1,33 @@
+.contactInfo {
+    margin: auto;
+}
+
+.contactInfo h2 {
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.contactInfo input,
+textarea {
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid rgba(121, 9, 117, 1);
+    outline: none;
+    color: #ffff;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(121, 9, 117, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+.contactInfo button {
+    padding: 15px 30px;
+    outline: none;
+    border: 1px solid;
+    font-size: 20px;
+    font-weight: 400;
+    color: gray;
+
+}
