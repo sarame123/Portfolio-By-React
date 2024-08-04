@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-By-React/static/css/main.55497fc4.css",
-    "main.js": "/Portfolio-By-React/static/js/main.1445db1b.js",
+    "main.js": "/Portfolio-By-React/static/js/main.2c5b7d1d.js",
     "static/js/787.7da95b79.chunk.js": "/Portfolio-By-React/static/js/787.7da95b79.chunk.js",
     "static/media/color-sharp.png": "/Portfolio-By-React/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Portfolio-By-React/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -13,7 +13,7 @@
     "static/media/CentraNo2-Bold.ttf": "/Portfolio-By-React/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Portfolio-By-React/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Portfolio-By-React/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/Sara-Elsahartey.pdf": "/Portfolio-By-React/static/media/Sara-Elsahartey.13fb617d43b35d67d1c7.pdf",
+    "static/media/Sara-Elsahartey.pdf": "/Portfolio-By-React/static/media/Sara-Elsahartey.c4156fbace483ff65a56.pdf",
     "static/media/Portfolio.jpg": "/Portfolio-By-React/static/media/Portfolio.12c7ee5b5b5c4077f2e1.jpg",
     "static/media/attendance.webp": "/Portfolio-By-React/static/media/attendance.965356b9383047276618.webp",
     "static/media/contact-us.svg": "/Portfolio-By-React/static/media/contact-us.30ffd07a7ff14b134126e7a117edc422.svg",
@@ -36,11 +36,11 @@
     "static/media/arrow1.svg": "/Portfolio-By-React/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Portfolio-By-React/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.55497fc4.css.map": "/Portfolio-By-React/static/css/main.55497fc4.css.map",
-    "main.1445db1b.js.map": "/Portfolio-By-React/static/js/main.1445db1b.js.map",
+    "main.2c5b7d1d.js.map": "/Portfolio-By-React/static/js/main.2c5b7d1d.js.map",
     "787.7da95b79.chunk.js.map": "/Portfolio-By-React/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55497fc4.css",
-    "static/js/main.1445db1b.js"
+    "static/js/main.2c5b7d1d.js"
   ]
 }
