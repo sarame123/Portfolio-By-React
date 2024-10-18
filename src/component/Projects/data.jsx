@@ -1,7 +1,7 @@
   import img5 from '../../Images/attendance.webp'
   import img1 from '../../Images/1.png'
   import img2 from '../../Images/Portfolio.jpg'
-  import img3 from '../../Images/azkar.png'
+  import img3 from '../../Images/prayer-times.webp'
   import img4 from "../../Images/marker.png"
   import img6 from "../../Images/food.avif"
   const allProjects=
@@ -26,9 +26,9 @@
         "title": "Project C",
         "url": img3,
         "description": "This is a project made to learn the latest languages by building an app.",
-        "skills": ["Html","JavaScript"],
-        "demo": "https://sarame123.github.io/Project-By-javascript/",
-        "source": "https://github.com/sarame123/Project-By-javascript"
+        "skills": ["Css","React"],
+        "demo": "https://sarame123.github.io/PrayerTime/",
+        "source": "https://github.com/sarame123/PrayerTime"
       },
       {
         "title": "Project D",
