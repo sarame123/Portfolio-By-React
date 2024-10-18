@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-By-React/static/css/main.cb1bc54e.css",
-    "main.js": "/Portfolio-By-React/static/js/main.3d4a06f3.js",
+    "main.js": "/Portfolio-By-React/static/js/main.fdbd177b.js",
     "static/js/787.7da95b79.chunk.js": "/Portfolio-By-React/static/js/787.7da95b79.chunk.js",
     "static/media/color-sharp.png": "/Portfolio-By-React/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Portfolio-By-React/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -9,11 +9,11 @@
     "static/media/banner-bg.png": "/Portfolio-By-React/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/bootstrap-icons.woff2?": "/Portfolio-By-React/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/food.avif": "/Portfolio-By-React/static/media/food.f1a3c25f29956e42d531.avif",
-    "static/media/azkar.png": "/Portfolio-By-React/static/media/azkar.c83b88f07cffdc5bc501.png",
     "static/media/CentraNo2-Bold.ttf": "/Portfolio-By-React/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Portfolio-By-React/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Portfolio-By-React/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/Sara-Elsahartey.pdf": "/Portfolio-By-React/static/media/Sara-Elsahartey.c4156fbace483ff65a56.pdf",
+    "static/media/prayer-times.webp": "/Portfolio-By-React/static/media/prayer-times.c7711194d0b9b58b6099.webp",
     "static/media/Portfolio.jpg": "/Portfolio-By-React/static/media/Portfolio.12c7ee5b5b5c4077f2e1.jpg",
     "static/media/attendance.webp": "/Portfolio-By-React/static/media/attendance.965356b9383047276618.webp",
     "static/media/contact-us.svg": "/Portfolio-By-React/static/media/contact-us.30ffd07a7ff14b134126e7a117edc422.svg",
@@ -36,11 +36,11 @@
     "static/media/arrow1.svg": "/Portfolio-By-React/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/Portfolio-By-React/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.cb1bc54e.css.map": "/Portfolio-By-React/static/css/main.cb1bc54e.css.map",
-    "main.3d4a06f3.js.map": "/Portfolio-By-React/static/js/main.3d4a06f3.js.map",
+    "main.fdbd177b.js.map": "/Portfolio-By-React/static/js/main.fdbd177b.js.map",
     "787.7da95b79.chunk.js.map": "/Portfolio-By-React/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb1bc54e.css",
-    "static/js/main.3d4a06f3.js"
+    "static/js/main.fdbd177b.js"
   ]
 }
