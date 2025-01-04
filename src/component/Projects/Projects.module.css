@@ -1,124 +1,115 @@
-.projects{
-    padding: 80px 0px ;
+
+ 
+  .Projects {
+    padding: 80px 0;
     position: relative;
-
+   
 }
 
-.projectBox h2{
-    font-size: 45px;
-	font-weight: 700;
-}
-.projectBox p{
-    color: #B8B8B8;
-    font-size: 18px;
-    letter-spacing: 0.8px;
-    line-height: 1.5em;
-    margin: 14px auto 30px auto;
-    width: 56%;
+
+.projectBox h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
 }
 
-.projectTabs li{
-    border-radius: 50px;
-
+.projectBox p {
+    color: #6c757d;
+    font-size: 1rem;
+    margin: 10px auto 30px auto;
+    width: 60%;
 }
-.main{
-  margin: 15px;
-  width: 20.4rem;
+
+.card {
   box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
   background: linear-gradient(180deg, hsla(313, 43%, 54%, 0.87) 0%, #132a53 100%);
-  box-shadow: 0 16px 14px 0 #04152d;
-  padding: 2px;
-}
-.imgg{
-  width: 100%;
-  height:200px;
-  object-fit: cover;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s;
 }
 
-
-
-.title{
-  font-size: 25px;
-  font-weight: 700;
-  padding-top: 10rem!important;
-  color: #fff;
-  margin-bottom: 50px;
+.card:hover {
+    transform: scale(1.05);
 }
 
-@media screen and (min-width: 0px) and (max-width: 600px) {
-  .title {
-    padding-top: 10rem!important;
-    font-size: 1.4rem !important;
-  }
-  .cad{
-    margin:30px auto;
-    offset: 10px;
-  }
-  .skills{
-    
-    padding-top: 10rem!important;
-  }
+.cardImage img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
 }
-@media screen and (min-width: 601px) and (max-width: 768px) {
-  .title {
-    padding-top: 10rem!important;
-    font-size: 1.4rem !important;
-  }
-  .cad{
-    margin:30px auto;
-    offset: 10px;
-  }
-  .skills{
-    
-    padding-top: 10rem!important;
-  }
 
-}
-  .skills{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    list-style: none;
-    gap: 6px;
-    margin-bottom: 50px;
-  }
-  .skill{
-    font-size: 25px;
-    border-radius: 100px;
-    background-color: hsl(286, 73%, 16%);
-    padding: 2px 22px;
-    color: #fff;
-  }
- 
-  .txt span{
-    font-style: italic;
-    font-weight: 400;
-    font-size: 15px;
+.cardBody {
     padding: 20px;
-    letter-spacing: 0.8px;
-  }
-  .txt h4
-  {
-    font-size: 25px;
-  font-weight: 500;
-  line-height: 27.5px
-  }
-  .imgg2{
-    position: absolute; 
-     bottom: 0;
-     right: 0;
-     width: 50%;
-     z-index: -4;
-  }
-  .links{
-    margin-top: 26px;
+    color: #fff;
+    text-align: center;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    list-style: none;
+    margin-bottom:20;
+    padding: 0;
+}
+
+.skill {
+    font-size: 0.9rem;
+    background: #390b47;
+    padding: 5px 15px;
+    border-radius: 15px;
+    color: #fff;
+}
+
+.links {
     display: flex;
     justify-content: space-around;
-  }
-  .link{
+    margin-top: 15px;
+}
+
+.link {
     text-decoration: none;
     color: #fff;
-    font-size: 30px;
-    font-weight: 600;
-    border-radius: 100px;
-  }
+    font-weight: bold;
+    background: hsl(0, 72%, 62%);
+    padding: 8px 20px;
+    border-radius: 25px;
+    transition: background 0.3s;
+}
+
+.link:hover {
+    background: #ff3b3b;
+}
+
+.imgg2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    z-index: -1;
+}
+
+
+@media (max-width: 768px) {
+    .projectBox p {
+        width: 80%;
+    }
+
+    .title {
+        font-size: 1.2rem;
+    }
+
+    .links {
+        flex-direction: column;
+       
+    }
+    .link{
+      margin-bottom:20px;
+    }
+}

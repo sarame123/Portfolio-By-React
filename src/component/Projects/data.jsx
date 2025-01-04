@@ -3,7 +3,7 @@
   import img2 from '../../Images/Portfolio.jpg'
   import img3 from '../../Images/prayer-times.webp'
   import img4 from "../../Images/marker.png"
-  import img6 from "../../Images/food.avif"
+  import img6 from "../../Images/6.png"
   const allProjects=
 [
     {
@@ -30,16 +30,9 @@
         "demo": "https://sarame123.github.io/PrayerTime/",
         "source": "https://github.com/sarame123/PrayerTime"
       },
+     
       {
         "title": "Project D",
-        "url":img4,
-        "description": "This is a project made to learn the latest languages by building an app.",
-        "skills": ["Html", "Css", "Bootstrab","JavaScript"],
-        "demo": "https://sarame123.github.io/BookMark/",
-        "source": "https://github.com/sarame123/BookMark"
-      },
-      {
-        "title": "Project E",
         "url": img5,
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": ["Html", "Css", "Bootstrab","JavaScript","jquery"],
@@ -47,12 +40,12 @@
         "source": "https://github.com/sarame123/Attendance-System"
       },
       {
-        "title": "Project F",
+        "title": "Project E",
         "url": img6,
         "description": "This is a project made to learn the latest languages by building an app.",
-        "skills": ["Html", "Css", "Bootstrab","JavaScript","react"],
-        "demo": "https://sarame123.github.io/Yummy-React/",
-        "source":"https://github.com/sarame123/Yummy-React"
+        "skills": ["Html", "Css", "Bootstrab","Material UI","react"],
+        "demo": "https://drive.google.com/file/d/1Q0UjMSGlzDyV4tHxTYfymHynAc_oWtTF/view?usp=sharing",
+        "source":"https://github.com/sarame123/CRM"
       }
 ]
 export default allProjects;

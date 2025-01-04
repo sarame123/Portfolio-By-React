@@ -15,7 +15,7 @@ export default function Home() {
           <div className="row align-items-center">
             <div className="col-xs-12 col-md-6 col-lg-7">
               <span className={style.tagline} >Welcome to my Portfolio</span>
-              <h1>{`Hi! I'm Sara Mohamed`}<span className={style.warb}> <ReactTyped strings={["I'm a Software Developer", "I'm a Front-End Developer"]} typeSpeed={100} loop /></span></h1>
+              <h1>{`Hi! I'm Sara Elsahatey`}<span className={style.warb}> <ReactTyped strings={["I'm a Software Developer", "I'm a Front-End Developer"]} typeSpeed={100} loop /></span></h1>
               <p> I'm software developer with a
                 background in front-end web development
                 tools, currently looking for an opportunity to
