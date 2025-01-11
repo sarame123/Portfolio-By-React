@@ -2,7 +2,7 @@
   import img1 from '../../Images/1.png'
   import img2 from '../../Images/Portfolio.jpg'
   import img3 from '../../Images/prayer-times.webp'
-  import img4 from "../../Images/marker.png"
+  import img4 from "../../Images/5.png"
   import img6 from "../../Images/6.png"
   const allProjects=
 [
@@ -41,6 +41,14 @@
       },
       {
         "title": "Project E",
+        "url": img4,
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": [ "Css", "Bootstrab","React"],
+        "demo": "https://sarame123.github.io/proj/",
+        "source": "https://github.com/sarame123/proj"
+      },
+      {
+        "title": "Project F",
         "url": img6,
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": ["Html", "Css", "Bootstrab","Material UI","react"],
