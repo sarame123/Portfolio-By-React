@@ -1,7 +1,7 @@
 
  
   .Projects {
-    padding: 80px 0;
+  
     position: relative;
    
 }
@@ -110,9 +110,13 @@
 
     .links {
         flex-direction: column;
+        gap: 3px;
        
     }
     .link{
       margin-bottom:20px;
+    }
+    .card{
+        margin-left: 20px;
     }
 }

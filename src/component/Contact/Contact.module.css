@@ -31,3 +31,9 @@ textarea {
     color: gray;
 
 }
+@media (max-width:500px) {
+  .contactInfo form{
+    padding: 20px;
+  }
+    
+}

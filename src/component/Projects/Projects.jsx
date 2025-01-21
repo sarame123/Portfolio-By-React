@@ -14,7 +14,7 @@ export default function Projects() {
                         <h2 className='under mt-5 animate__animated animate__bounce'>Projects</h2>
                         <p>Here are a few projects I've worked on recently.</p>
                     </div>
-                    <div className={`row mb-5 gy-4 ${style.Proj}`}>
+                    <div className={`row mb-5 gy-4 container ${style.Proj}`}>
                         {allProjects.map((project, index) => (
                             <div 
                                 className="col-sm-12 col-md-6 col-lg-4" 
