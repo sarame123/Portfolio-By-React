@@ -24,7 +24,6 @@
   background: linear-gradient(180deg, hsla(313, 43%, 54%, 0.87) 0%, #132a53 100%);
     border-radius: 10px;
     overflow: hidden;
-    height:450px;
     transition: transform 0.3s;
 }
 
@@ -74,6 +73,7 @@
     display: flex;
     justify-content: space-around;
     margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .link {

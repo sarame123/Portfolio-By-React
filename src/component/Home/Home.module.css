@@ -28,7 +28,7 @@
 }
 .warb{
     color: #7c55c9;
-    font-size: 50px;
+    font-size: 30px;
 }
 .banner p{
     color: #B8B8B8;
@@ -60,4 +60,11 @@
     100% {
         transform: translateY(-20px);
     }
+}
+@media  (max-Width:800px) {
+    .warb{
+        font-size:23px;
+       
+    }
+    
 }
